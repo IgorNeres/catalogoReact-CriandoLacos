@@ -21,11 +21,8 @@
 - [📚 O Que Aprendi](#-o-que-aprendi)
 - [🎨 Desafios e Soluções](#-desafios-e-soluções)
 - [🔍 Dificuldades Encontradas](#-dificuldades-encontradas)
-- [📱 Screenshots](#-screenshots)
 - [📁 Estrutura de Pastas](#-estrutura-de-pastas)
 - [🧪 Testes e Validações](#-testes-e-validações)
-- [🚀 Próximos Passos](#-próximos-passos)
-- [👥 Contribuição](#-contribuição)
 - [📄 Licença](#-licença)
 
 ## 📖 Visão Geral
