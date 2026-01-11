@@ -280,21 +280,6 @@ useEffect(() => {
 - **Problema**: Erros de TypeScript no build de produção
 - **Solução**: Configuração adequada do tsconfig.json e verificação de tipos
 
-## 📱 Screenshots
-
-<div align="center">
-  
-  ### 🏠 Página Principal
-  ![Página Principal](https://via.placeholder.com/800x400/aa5b64/ffffff?text=Catálogo+de+Produtos)
-  
-  ### ⚙️ Modal de Personalização
-  ![Modal](https://via.placeholder.com/800x400/ffc8c9/000000?text=Personalização+de+Produto)
-  
-  ### 🛒 Carrinho de Compras
-  ![Carrinho](https://via.placeholder.com/800x400/f96e74/ffffff?text=Carrinho+de+Compras)
-  
-</div>
-
 ## 📁 Estrutura de Pastas
 
 ```
