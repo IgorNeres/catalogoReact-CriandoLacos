@@ -23,7 +23,6 @@
 - [🔍 Dificuldades Encontradas](#-dificuldades-encontradas)
 - [📁 Estrutura de Pastas](#-estrutura-de-pastas)
 - [🧪 Testes e Validações](#-testes-e-validações)
-- [📄 Licença](#-licença)
 
 ## 📖 Visão Geral
 
@@ -313,12 +312,6 @@ src/
 - Siga as convenções do projeto
 - Adicione testes para novas funcionalidades
 - Documente mudanças significativas
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
 
 <div align="center">
   <p>Desenvolvido com ❤️ para o <strong>Criando Laços</strong></p>
